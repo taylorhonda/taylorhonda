@@ -82,7 +82,7 @@ nav {
 
 #design2 {
 	width: 95%;
-	margin-bottom: 4%;
+	margin-bottom: 5%;
 	-webkit-transition: 0.4s;
 	-moz-transition: 0.4s;
 	-ms-transition: 0.4s;
@@ -220,6 +220,86 @@ nav {
 
 }
 
+#photo9 {
+	width: 95%;
+	margin-bottom: 4%;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-ms-transition: 0.4s;
+	transition: 0.4s;
+
+}
+
+#photo10 {
+	width: 95%;
+	margin-bottom: 4%;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-ms-transition: 0.4s;
+	transition: 0.4s;
+
+}
+
+#photo11 {
+	width: 95%;
+	margin-bottom: 4%;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-ms-transition: 0.4s;
+	transition: 0.4s;
+
+}
+
+#photo12 {
+	width: 95%;
+	margin-bottom: 4%;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-ms-transition: 0.4s;
+	transition: 0.4s;
+
+}
+
+#photo13 {
+	width: 95%;
+	margin-bottom: 4%;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-ms-transition: 0.4s;
+	transition: 0.4s;
+
+}
+
+#photo14 {
+	width: 95%;
+	margin-bottom: 4%;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-ms-transition: 0.4s;
+	transition: 0.4s;
+
+}
+
+#photo15 {
+	width: 95%;
+	margin-bottom: 4%;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-ms-transition: 0.4s;
+	transition: 0.4s;
+
+}
+
+#photo16 {
+	width: 95%;
+	margin-bottom: 4%;
+	-webkit-transition: 0.4s;
+	-moz-transition: 0.4s;
+	-ms-transition: 0.4s;
+	transition: 0.4s;
+
+}
+
 #design1:hover {
 	opacity: 0.5;
 	cursor: pointer;
@@ -300,6 +380,46 @@ nav {
 	cursor: pointer;
 }
 
+#photo9:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#photo10:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#photo11:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#photo12:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#photo13:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#photo14:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#photo15:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+#photo16:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
 #container {
 
 }
@@ -354,7 +474,7 @@ nav {
 
 #zoomin1 {
 	width: 50%;
-	margin-top: 2%;
+	margin-top: 3.5%;
 	margin-left: 25.7%;
 	display: none;
 	z-index: 500;
@@ -364,7 +484,7 @@ nav {
 
 #zoomin2 {
 	width: 50%;
-	margin-top: 3%;
+	margin-top: 4%;
 	margin-left: 26%;
 	display: none;
 	z-index: 500;
@@ -375,7 +495,7 @@ nav {
 
 #zoomin3 {
 	width: 50%;
-	margin-top: 3%;
+	margin-top: 4%;
 	margin-left: 26%;
 	display: none;
 	z-index: 500;
@@ -393,7 +513,7 @@ nav {
 
 #zoomin5 {
 	width: 50%;
-	margin-top: 3%;
+	margin-top: 4%;
 	margin-left: 26%;
 	display: none;
 	z-index: 500;
@@ -402,7 +522,7 @@ nav {
 
 #zoomin6 {
 	width: 50%;
-	margin-top: 1%;
+	margin-top: 3%;
 	margin-left: 26%;
 	display: none;
 	z-index: 500;
@@ -411,7 +531,7 @@ nav {
 
 #zoomin7 {
 	width: 50%;
-	margin-top: 0.75%;
+	margin-top: 8%;
 	margin-left: 26%;
 	display: none;
 	z-index: 500;
@@ -491,9 +611,81 @@ nav {
 }
 
 #zoomin16 {
-	width: 50%;
-	margin-top: 3%;
-	margin-left: 26%;
+	width: 40%;
+	margin-top: 2.5%;
+	margin-left: 29.5%;
+	display: none;
+	z-index: 500;
+
+}
+
+#zoomin17 {
+	width: 70%;
+	margin-top: 9%;
+	margin-left: 15%;
+	display: none;
+	z-index: 500;
+
+}
+
+#zoomin18 {
+	width: 70%;
+	margin-top: 5.5%;
+	margin-left: 15%;
+	display: none;
+	z-index: 500;
+
+}
+
+#zoomin19 {
+	width: 70%;
+	margin-top: 5.25%;
+	margin-left: 15%;
+	display: none;
+	z-index: 500;
+
+}
+
+#zoomin20 {
+	width: 70%;
+	margin-top: 4.5%;
+	margin-left: 15%;
+	display: none;
+	z-index: 500;
+
+}
+
+#zoomin21 {
+	width: 70%;
+	margin-top: 4.5%;
+	margin-left: 15%;
+	display: none;
+	z-index: 500;
+
+}
+
+#zoomin22 {
+	width: 70%;
+	margin-top: 5%;
+	margin-left: 15%;
+	display: none;
+	z-index: 500;
+
+}
+
+#zoomin23 {
+	width: 70%;
+	margin-top: 5.5%;
+	margin-left: 15%;
+	display: none;
+	z-index: 500;
+
+}
+
+#zoomin24 {
+	width: 70%;
+	margin-top: 5.5%;
+	margin-left: 15%;
 	display: none;
 	z-index: 500;
 

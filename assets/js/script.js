@@ -109,6 +109,56 @@ $(document).ready(function(){
 
 	});
 
+	$("#photo9").click(function() {
+		$(".overlay").fadeIn();
+		$("#zoomin17").fadeIn();
+
+	});
+
+	$("#photo10").click(function() {
+		$(".overlay").fadeIn();
+		$("#zoomin18").fadeIn();
+
+	});
+
+	$("#photo11").click(function() {
+		$(".overlay").fadeIn();
+		$("#zoomin19").fadeIn();
+
+	});
+
+	$("#photo12").click(function() {
+		$(".overlay").fadeIn();
+		$("#zoomin20").fadeIn();
+
+	});
+
+	$("#photo13").click(function() {
+		$(".overlay").fadeIn();
+		$("#zoomin21").fadeIn();
+
+	});
+
+	$("#photo14").click(function() {
+		$(".overlay").fadeIn();
+		$("#zoomin22").fadeIn();
+
+	});
+
+	$("#photo15").click(function() {
+		$(".overlay").fadeIn();
+		$("#zoomin23").fadeIn();
+
+	});
+
+	$("#photo16").click(function() {
+		$(".overlay").fadeIn();
+		$("#zoomin24").fadeIn();
+
+	});
+
+
+
 	$(".overlay").click(function() {
 		$(".overlay").fadeOut();
 		$("#zoomin1").fadeOut();
@@ -127,6 +177,14 @@ $(document).ready(function(){
 		$("#zoomin14").fadeOut();
 		$("#zoomin15").fadeOut();
 		$("#zoomin16").fadeOut();
+		$("#zoomin17").fadeOut();
+		$("#zoomin18").fadeOut();
+		$("#zoomin19").fadeOut();
+		$("#zoomin20").fadeOut();
+		$("#zoomin21").fadeOut();
+		$("#zoomin22").fadeOut();
+		$("#zoomin23").fadeOut();
+		$("#zoomin24").fadeOut();
 
 	});
 
